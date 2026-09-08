@@ -1,0 +1,19 @@
+I want to make a beginners python course for phd students from the world trade institute https://www.wti.org/. These students predominantly have no idea about coding, python, vscode, environments, juypter notebooks, terminals, etc.
+It want to build a course around the following things:
+
+- basic python: python syntax, types, variables, operators, built-in types, built-in data structures (e.g. lists, dictionaries), indexing and slicing, if-else statements, loops (e.g. for, while), functions, etc
+- useful python: iterating over folders, copying files, showing how to automate boring stuff, etc.
+  (basic python and useful python together: 180 minutes)
+  i want to use well explained and maybe also image enriched jupyter notebooks. if images are taken from extern sources, they need to be properly cited (the source must be clear)
+  I want to alternatingly show live coding and let the students do exerexercises (maybe 20 minutes of life coding, 20 minutes of exercising)
+  eventually the python revolve around a topic relevant for the students
+  I also want the exercises to be 3 fold: in the same exercise block there should be very simple exercises, then a bit more difficult exercises and then max. one exercise that is quite hard to solve and that is maybe meant os homework. the students should be able to finish the capstone exercise without needing to solve the very hard exercises, but the intrmiediate ones. also, try to make it not boring. avoid emojis and make the notebooks look as little as possible machine generated.
+
+You find the notebooks 01_basic_python and 02_useful_python about that in this folder. look at them. i find them a bit disappointing as they are too complicated and have too little examples. however they incorporate the idea that the topic would be file organization, which i like. please be better than that!
+as orientation look at this example notebooks as well:
+
+- the notebooks in the folder ds
+- https://github.com/sigvehaug/DSF-DCBP/blob/main/01_Basic_Python_1.ipynb
+- https://github.com/sigvehaug/DSF-DCBP/blob/main/03_Basic_Python_2.ipynb
+
+do not change the existen notebooks, but generate new ones. keep in mind that i have to fill 180 minutes of theaching/ exercises with the notebooks
